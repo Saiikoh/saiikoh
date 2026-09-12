@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saiikoh.netlify.app/sitemap.xml
